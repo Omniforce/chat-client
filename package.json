@@ -1,0 +1,11 @@
+{
+  "name": "chat-client",
+  "description": "chat-client test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.2",
+    "socket.io": "0.9.16",
+    "http": "0.0.0"
+  }
+}
